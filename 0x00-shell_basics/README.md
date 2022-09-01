@@ -1,6 +1,6 @@
 ## This repository contains all the files for learning shell basics:
 
-*[Exercise 0: pwd === print working directory](./0-current_working_directory)
+* [Exercise 0: pwd === print working directory](./0-current_working_directory)
 
 Exercise 1: ls === list directory contents
 
