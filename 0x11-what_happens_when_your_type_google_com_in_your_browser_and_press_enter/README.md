@@ -1,0 +1,4 @@
+# What happens when your type google.com in your browser and press enter?
+
+![hh](https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
+The ubiquity of the internet in our daily lives has resulted in frequent usage, causing us to overlook many underlying processes that occur when visiting a website. While the act of entering a website’s URL and subsequently accessing its content appears straightforward, it is actually a complex procedure that takes place behind the scenes of the browser. In this project, we will uncover the behind-the-scenes mechanisms that occur when attempting to access a website by entering google.com
