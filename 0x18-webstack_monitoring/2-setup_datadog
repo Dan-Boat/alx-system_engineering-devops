@@ -2,8 +2,8 @@ es8-q73-yyi
 from datadog_api_client import initialize, api
 
 options = {
-    'api_key': '5027449c99270290e9e18fd6d1cfa723',
-    'app_key': '3586061ac84e8e2ee4769110f331c3d6fcb496e0'
+    'api_key': '9311045cea9678d8e2536434f3c9d9e47573b68b',
+    'app_key': '61d9c8e1-e78a-4d25-8cb8-dbf2c6488306'
 }
 
 initialize(**options)
